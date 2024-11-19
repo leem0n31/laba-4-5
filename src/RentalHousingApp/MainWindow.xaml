@@ -1,0 +1,44 @@
+﻿<Window x:Class="RentalHousingApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Аренда жилья" Height="400" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Введите адрес:" Grid.Row="0" Grid.Column="0" Margin="5"/>
+        <TextBox Name="AddressTextBox" Grid.Row="0" Grid.Column="1" Margin="5"/>
+
+        <Label Content="Число комнат:" Grid.Row="1" Grid.Column="0" Margin="5"/>
+        <TextBox Name="RoomsTextBox" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+        <Label Content="Число спальных мест:" Grid.Row="2" Grid.Column="0" Margin="5"/>
+        <TextBox Name="BedsTextBox" Grid.Row="2" Grid.Column="1" Margin="5"/>
+
+        <Label Content="Стоимость аренды:" Grid.Row="3" Grid.Column="0" Margin="5"/>
+        <TextBox Name="RentTextBox" Grid.Row="3" Grid.Column="1" Margin="5"/>
+
+        <Label Content="Страховой взнос:" Grid.Row="4" Grid.Column="0" Margin="5"/>
+        <TextBox Name="InsuranceTextBox" Grid.Row="4" Grid.Column="1" Margin="5"/>
+
+        <Label Content="Число дней:" Grid.Row="5" Grid.Column="0" Margin="5"/>
+        <TextBox Name="DaysTextBox" Grid.Row="5" Grid.Column="1" Margin="5"/>
+
+        <Button Content="Рассчитать" Grid.Row="6" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="5" Click="CalculateButton_Click"/>
+
+        <Label Name="ResultLabel" Grid.Row="7" Grid.ColumnSpan="2" Margin="5"/>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\laba45\RentalHousingApp\bin\Debug\RentalHousingApp.exe.config
+C:\Users\user\Desktop\laba45\RentalHousingApp\bin\Debug\RentalHousingApp.exe
+C:\Users\user\Desktop\laba45\RentalHousingApp\bin\Debug\RentalHousingApp.pdb
+C:\Users\user\Desktop\laba45\RentalHousingApp\bin\Debug\RentalHousingLibrary.dll
+C:\Users\user\Desktop\laba45\RentalHousingApp\bin\Debug\RentalHousingLibrary.pdb
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\RentalHousingApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\App.g.cs
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\RentalHousingApp_MarkupCompile.cache
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\RentalHousingApp.g.resources
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\RentalHousingApp.Properties.Resources.resources
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\RentalHousingApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\RentalHousingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\RentalHo.AC1FE7C0.Up2Date
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\RentalHousingApp.exe
+C:\Users\user\Desktop\laba45\RentalHousingApp\obj\Debug\RentalHousingApp.pdb

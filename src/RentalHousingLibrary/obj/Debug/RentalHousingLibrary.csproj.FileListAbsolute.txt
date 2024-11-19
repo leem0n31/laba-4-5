@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\laba45\RentalHousingLibrary\bin\Debug\RentalHousingLibrary.dll
+C:\Users\user\Desktop\laba45\RentalHousingLibrary\bin\Debug\RentalHousingLibrary.pdb
+C:\Users\user\Desktop\laba45\RentalHousingLibrary\obj\Debug\RentalHousingLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\laba45\RentalHousingLibrary\obj\Debug\RentalHousingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\laba45\RentalHousingLibrary\obj\Debug\RentalHousingLibrary.dll
+C:\Users\user\Desktop\laba45\RentalHousingLibrary\obj\Debug\RentalHousingLibrary.pdb
