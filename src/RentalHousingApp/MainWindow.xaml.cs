@@ -15,7 +15,7 @@ namespace RentalHousingApp
         {
             try
             {
-                // Получение данных из текстовых полей
+               
                 string address = AddressTextBox.Text;
                 int numberOfRooms = int.Parse(RoomsTextBox.Text);
                 int numberOfBeds = int.Parse(BedsTextBox.Text);
@@ -23,10 +23,10 @@ namespace RentalHousingApp
                 decimal insuranceDeposit = decimal.Parse(InsuranceTextBox.Text);
                 int days = int.Parse(DaysTextBox.Text);
 
-                // Создание объекта класса RentalHousing
+                
                 RentalHousing rentalHousing = new RentalHousing(address, numberOfRooms, numberOfBeds, dailyRent, insuranceDeposit);
 
-                // Вычисление стоимости аренды и вывод результатов
+                
                 decimal totalRent = rentalHousing.CalculateRent(days);
                 decimal totalCost = rentalHousing.CalculateTotalCost(days);
                 decimal bookingCost = rentalHousing.CalculateBookingCost(days);
